@@ -42,8 +42,6 @@ spring:
         temp: 
           use_jdbc_metadata_defaults: false
 
-
-
 # View Resolver
   mvc:
     view:
