@@ -53,8 +53,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: dugun319@gmail.com
-    password: mcuw ymbr lsjf clix
+    username: 
+    password: 
     properties:
       mail:
         smtp:
