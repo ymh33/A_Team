@@ -13,6 +13,7 @@
 </head>
 <body>
 	<h1>MAIN</h1>
+	<h6>민행씨메롱</h6>
 	<table>
 		<c:forEach	var="paperList"	items="${paperList}"	varStatus="status" >
 					<tr>
