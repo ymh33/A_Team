@@ -16,8 +16,8 @@
 	<table>
 		<c:forEach	var="paperList"	items="${paperList}"	varStatus="status" >
 					<tr>
-						<td class="cell">${paperList.certi_num}</td>						
-						<td class="cell">${paperList.lecture_num}</td>
+						<td class="cell">${paperList.certi_num}저장?</td>						
+						<td class="cell">${paperList.lecture_num}...</td>
 						<td class="cell">${paperList.unique_num}</td>						
 						<td class="cell">${paperList.certi_type}</td>
 						<td class="cell">${paperList.applicationn_date}</td>						
