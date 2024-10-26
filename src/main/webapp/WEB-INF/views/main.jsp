@@ -12,7 +12,7 @@
 <script src="http://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 </head>
 <body>
-	<h1>MAIN</h1>
+	<h2>MAIN</h2>
 	<table>
 		<c:forEach	var="paperList"	items="${paperList}"	varStatus="status" >
 					<tr>
