@@ -214,6 +214,7 @@
 	                <li><span>&nbsp;|&nbsp;</span></li>
 	                <li><a href="/construction">비밀번호 찾기</a></li>
 	            </ul>
+	            <!-- 수정했다  -->
 	        </div>
         </div>
     </div>
